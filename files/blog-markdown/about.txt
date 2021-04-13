@@ -1,0 +1,3 @@
+this folder contains the original markdown versions of my blog posts at https://www.hemmerich.co/blog/
+i accidentally deleted these in 2019 and didn't update my blog because i didn't want to remake the markdown files 
+but now they're back
