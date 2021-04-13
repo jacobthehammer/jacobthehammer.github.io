@@ -1,0 +1,3 @@
+test command for toilet in gnu/linux
+
+ls /usr/share/figlet/ | sed 's/....$//'|xargs -I % sh -c 'toilet -f % "Your text here" && echo %'
