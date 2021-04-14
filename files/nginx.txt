@@ -1,3 +1,5 @@
+Short email I wrote to help a colleague set up nginx server blocks 
+
 Josh,
 
 To set up your nginx server block, you'll have to do the following:
