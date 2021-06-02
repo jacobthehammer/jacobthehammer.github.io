@@ -10,9 +10,6 @@ A     |  NAME: WWW  	  | VALUE: [Server's IPv4 Address]
 AAAA  |  NAME: WWW  	  | VALUE: [Server's IPv6 Address]
 CNAME |  NAME: joshuak.me | VALUE: www.joshuak.me
 
-Note: I recommend using Cloudflare SSL to encrypt your connection. It stops users from being able to SSH into
-the server by using your domain.
-
 2. Configure Nginx
     a) Create the directory for your website
 	sudo mkdir -p /var/www/joshuak.me/public_html
