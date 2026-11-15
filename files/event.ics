@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+LAST-MODIFIED:20260721T092906Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261115T154936Z
+UID:1794757749450-67004@ical.marudot.com
+DTSTART;TZID=America/Chicago:20261205T193000
+DTEND;TZID=America/Chicago:20261205T213000
+SUMMARY:Shrek The Musical
+URL:https://u1328380.ct.sendgrid.net/ls/click?upn=u001.7fjZcB4mxeVpYUkRAo1zSdR8ri0GRcoB1p1vOZlI9GuFCdk5cMATHrcb-2FX5oskz00psGFb0M8vsKr8HOmevsDQn-2Bh3x6pNmp2vcdqSsiLBo-3DmUi__og6Uc5BI89ux92xOkyyuGhJJiCEzdXBQPZGcMkhiWDebFaxHIwAQDqhD4-2FdC1KwZjgjc6ccSciW61SbMofCRpyHKeVrDOtaRJPGOgaeqLcksMXkZ1NSbxza8qlY-2F0oOE7rKCrEvaIZQZz6ZkafLrCMnjQHr8eVH-2F7hi95THJS-2BpMNcDDrIhgYiuAXq6JIunAgX6hdqhIl15jPyYJh7GDdg-3D-3D
+DESCRIPTION:Dear Jacob\,\nYour order Id is: PR111486897\n\nOrchestra| Row N - Seat 210\nOrchestra| Row N - Seat 211\nOrchestra| Row N - Seat 212\n\nShrek the Musical\nThank you for purchasing tickets to City Circle Theatre Company's production of Shrek the Musical. Please read over the updated policies below:\n\nTicketing:\n• If you selected "Will Call\," your pre-printed tickets will be held at the CCPA Box Office. Look for the counter labeled "Will Call."\n\n• Digital tickets may be printed at home or shown on your phone. Ushers must be able to scan every ticket in your order\, not just the first one.\n\n• If you requested your tickets be mailed to you\, they should arrive in 5–7 business days. If for any reason they do not arrive prior to the performance\, they can be printed for you free of charge at the Box Office the day of the show.\n\n• Tickets to City Circle Theatre Company and Young Footliters Youth Theatre are non-refundable. We understand that sometimes plans change. Up to 24 hours before the ticketed performance you may contact the Box Office to have your tickets returned and credited to your Box Office account for future use.\n\nLocation & Parking:\n• The Coralville Center for the Performing Arts address is 1301 5th Street in Coralville\; it is located inside Plaza on 5th at the corner of 12th Avenue and 5th Street.\n• Free parking is available in the Town Center parking lot immediately north of the theater (the lot shared with the Coralville Public Library). Please note that parking is available both on the surface lot and below ground in the ramp\; look for the doorway marked "Plaza Entrance" if parking below ground.\n
+LOCATION:Coralville Center for the Performing Arts\, 1301 5th St\, Coralville\, IA 52241
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shrek The Musical
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
